@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import ProductCard from "./ProductCard";
 import Hero from "./Hero";
-import Likebutton from "./Likebutton";
 
 
 const ProductContainer = () => {
@@ -13,7 +12,7 @@ const ProductContainer = () => {
     }, [])
     return (
         <div>
-            <Likebutton></Likebutton>
+
             <Hero></Hero>
             <h1>Product  </h1>
             <div className=" grid grid-cols-1 gap-5 md:grid-cols-3 lg:grid-cols-4 max-w-screen-xl mx-auto">
