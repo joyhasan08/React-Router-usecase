@@ -10,7 +10,7 @@ const NavBar = () => {
                 <ul className='  gap-3 flex flex-col md:flex-row'>
                     <Link to='/joy'>Home</Link>
                     <Link to="/about">About</Link>
-                    <Link>Blog</Link>
+                    <Link to={`/blog`}>Blog</Link>
                     <Link to="/main" >Users </Link>
                 </ul>
             </div>
