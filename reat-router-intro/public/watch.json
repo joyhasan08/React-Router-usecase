@@ -1,0 +1,65 @@
+{
+    "smartwatches": [
+      {
+        "name": "SmartWatch Pro X",
+        "image_url": "https://images.unsplash.com/photo-1637160151663-a410315e4e75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+        "price": "$199.99",
+        "details": "The SmartWatch Pro X comes with a high-resolution OLED display, GPS tracking, heart rate monitoring, and waterproof design. Stay connected and track your fitness in style."
+      },
+      {
+        "name": "TechWear 5G",
+        "image_url": "https://images.unsplash.com/photo-1517502474097-f9b30659dadb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2127&q=80",
+        "price": "$249.99",
+        "details": "TechWear 5G is the ultimate smartwatch with 5G connectivity, voice assistant integration, health monitoring, and a sleek stainless steel body."
+      },
+      {
+        "name": "FitnessTracker Pro",
+        "image_url": "https://images.unsplash.com/photo-1471174826377-f3da3bd635e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1924&q=80",
+        "price": "$149.99",
+        "details": "The FitnessTracker Pro is your ideal fitness companion, featuring step tracking, sleep analysis, and a long-lasting battery life."
+      },
+      {
+        "name": "Lifestyle Watch 2023",
+        "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1999&q=80",
+        "price": "$179.99",
+        "details": "The Lifestyle Watch 2023 combines style and functionality with a vibrant AMOLED display, customizable watch faces, and advanced fitness tracking features."
+      },
+      {
+        "name": "HealthMaster Plus",
+        "image_url": "https://images.unsplash.com/photo-1434494817513-cc112a976e36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "price": "$299.99",
+        "details": "The HealthMaster Plus is designed for health enthusiasts, offering ECG monitoring, blood oxygen measurement, and comprehensive fitness insights."
+      },
+      {
+        "name": "Sports Pro Elite",
+        "image_url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+        "price": "$169.99",
+        "details": "The Sports Pro Elite is perfect for athletes, with built-in sports modes, GPS navigation, and a rugged, durable build."
+      },
+      {
+        "name": "Fashionable Elegance",
+        "image_url": "https://images.unsplash.com/photo-1517502474097-f9b30659dadb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2127&q=80",
+        "price": "$199.99",
+        "details": "Experience fashionable elegance with this smartwatch featuring a premium leather strap, sapphire crystal display, and smart notifications."
+      },
+      {
+        "name": "Outdoor Adventure Watch",
+        "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "price": "$229.99",
+        "details": "For outdoor enthusiasts, the Outdoor Adventure Watch offers altimeter, barometer, and compass sensors, ensuring you're ready for any expedition."
+      },
+      {
+        "name": "WorkSmart Pro",
+        "image_url": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
+        "price": "$189.99",
+        "details": "Stay organized and productive with the WorkSmart Pro, featuring calendar integration, email notifications, and voice memos."
+      },
+      {
+        "name": "Kid's Smart Buddy",
+        "image_url": "https://images.unsplash.com/photo-1533675180235-0ba57d720b51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1942&q=80",
+        "price": "$79.99",
+        "details": "The Kid's Smart Buddy is designed for children, with parental controls, GPS tracking, and fun learning apps."
+      }
+    ]
+  }
+  

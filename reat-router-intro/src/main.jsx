@@ -6,18 +6,31 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import About from './component/About.jsx';
+import Mainpage from './component/MainPage/Mainpage.jsx';
+import Hero from './home/Hero.jsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <App></App>,
+    children: [
+      {
+        path: "/about",
+        element: <About></About>
+      },
+      {
+        path: "/main",
+        loader: () => fetch(`https://jsonplaceholder.typicode.com/users	`),
+        element: <Mainpage></Mainpage>
+      }, {
+        path: "/joy",
+        element: <Hero></Hero>
+      }
+
+    ]
   },
-  {
-    path: "/joy",
-    element: <div>
-      <h1 className='  text-5xl  ' >Hello Im Joy</h1>
-    </div>
-  }
+
 ]);
 
 
