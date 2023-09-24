@@ -1,6 +1,7 @@
 
 
 import './App.css'
+import StateFullFrom from './From/StateFullFrom'
 import SubmitFrom from './From/SubmitFrom'
 
 function App() {
@@ -14,6 +15,9 @@ function App() {
       <section>
         <div>
           <SubmitFrom></SubmitFrom>
+        </div>
+        <div>
+          <StateFullFrom></StateFullFrom>
         </div>
 
       </section>
