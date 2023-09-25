@@ -19,6 +19,10 @@ const router = createBrowserRouter([
     element: <App></App>,
     children: [
       {
+        path: "/",
+        element: <Hero></Hero>
+      },
+      {
         path: "/about",
         element: <About></About>
       },
@@ -38,7 +42,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/blog",
-        loader: ({ params }) => fetch(`https://api.slingacademy.com/v1/sample-data/blog-posts`),
+        loader: () => fetch(`https://api.slingacademy.com/v1/sample-data/blog-posts`),
         element: <Blogs></Blogs>
       },
       {
